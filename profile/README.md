@@ -1,4 +1,3 @@
-# SafeHello SDK repositories
-
+# SafeHello
 The Safest, Fastest
 Way To Connect.
